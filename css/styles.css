@@ -1,0 +1,71 @@
+#title1{
+  padding-top: 100px;
+  padding-left: 30px;
+}
+
+#title{
+  background-color: #aee7e8;
+  padding-bottom: 50px;
+}
+
+#lecture{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#responsiveweb{
+  background-color: #bdf2d5;
+  padding-top:100px;
+}
+
+#tools{
+  background-color: #7ad9f5;
+  padding:100px;
+}
+
+#Contents{
+ text-align: center;
+ background-color: #aee7e8;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+
+#download{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #bdf2d5;
+}
+
+#footer{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Jua', sans-serif;
+}
+h2{
+  font-family: 'Jua', sans-serif;
+}
+h3{
+  font-family: 'Jua', sans-serif;
+}
+h4{
+  font-family: 'Jua', sans-serif;
+}
+p{
+  font-family: 'Jua', sans-serif;
+}
+
+.carousel-inner > .carousel-item > img{
+  width:640px;
+  height:360px;
+}
+
+.col-3{
+  padding: 20px;
+}
+.card-deck{
+  border-style: solid;
+  padding: 2% 3%;
+}
